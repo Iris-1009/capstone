@@ -15,4 +15,11 @@
 ## Build a Self-Driving Arduino Car | Science Project (video inspiration)
 - https://youtu.be/qUo6hXSV1b8?si=U3WUBD_Pmyj_2Ngf
 
+##Chatgpt used to modify the bfs algorithm 
+- Prompt: use this code, however instead of showing the shortest steps, show the directions it needs to go in a list (ex. E, W, N, S)
+- Response: ![image](https://github.com/user-attachments/assets/7ddf1893-6e79-493b-8fa4-6ce5f4723738)
+  ![image](https://github.com/user-attachments/assets/80c5b834-7d8a-4705-835e-6e8a2f7c6198)
+  ![image](https://github.com/user-attachments/assets/c07fb4f7-915e-4147-8a26-f918fae447b8)
+
+
 
