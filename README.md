@@ -1,6 +1,6 @@
 # Capstone Project
 ## Autonomous Vehicle 
-This project is an autonomous robotics car with the ability to navigate using built in sensors and motors combined with python codes. The project code was done on Microsoft MakeCode, and using its special functions that were provided to interact with the Micro:bit processor and hardware components of the k8 robotics kit. The vehicle will be able to examine the surroundings to determine a clear path, being aware of any obstacles or line markings. 
+This project is an autonomous robotics car with the ability to navigate using built in sensors and motors combined with python codes. The project code was done on Microsoft MakeCode, and uses its special functions that were provided to interact with the Micro:bit processor and hardware components of the k8 robotics kit. The vehicle will be able to examine the surroundings to determine a clear path, being aware of any obstacles or line markings. 
 ##  Features
 - Line following (tracks black line using infrared sensors)
 - Obstacle avoidance (detects obstacles and moves around it by using the ultrasonic sensor)
